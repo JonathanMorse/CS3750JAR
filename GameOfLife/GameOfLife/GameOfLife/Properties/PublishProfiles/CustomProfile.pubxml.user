@@ -1,0 +1,194 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+This file is used by the publish/package process of your Web project. You can customize the behavior of this process
+by editing this MSBuild file. In order to learn more about this please visit https://go.microsoft.com/fwlink/?LinkID=208121. 
+-->
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <TimeStampOfAssociatedLegacyPublishXmlFile />
+    <EncryptedPassword>AQAAANCMnd8BFdERjHoAwE/Cl+sBAAAARHp5hJNfdEq6VoSPHMrvkgAAAAACAAAAAAAQZgAAAAEAACAAAAA0pxkqMVRIAoWFv1qgSkW+x/PycqDVdicowUMB/FrCjQAAAAAOgAAAAAIAACAAAABRbsajqQPyIqlxCE1/E2a9Z8Evd/ghpOkvPFifA4t6GCAAAAAimhaoiuRInMEyv2nsduv87SuhFYN1xlQ7ODZe6O+yhUAAAABVPVY5+gZ6BJvWvmSQjYXmvMZ8wK0VPjxw+HY3H1PZHLjcHZCQVWAFEfvgZNLLjtxHGJgR04ABxdTleip26T62</EncryptedPassword>
+    <_PublishTargetUrl>ftp://students.cs.weber.edu:4211</_PublishTargetUrl>
+  </PropertyGroup>
+  <ItemGroup>
+    <File Include="appsettings.Development.json">
+      <publishTime>02/20/2020 21:07:54</publishTime>
+    </File>
+    <File Include="appsettings.json">
+      <publishTime>02/20/2020 21:07:54</publishTime>
+    </File>
+    <File Include="GameOfLife.deps.json">
+      <publishTime>02/25/2020 20:59:07</publishTime>
+    </File>
+    <File Include="GameOfLife.dll">
+      <publishTime>02/25/2020 20:59:06</publishTime>
+    </File>
+    <File Include="GameOfLife.exe">
+      <publishTime>02/25/2020 20:59:06</publishTime>
+    </File>
+    <File Include="GameOfLife.pdb">
+      <publishTime>02/25/2020 20:59:06</publishTime>
+    </File>
+    <File Include="GameOfLife.runtimeconfig.json">
+      <publishTime>02/25/2020 20:15:37</publishTime>
+    </File>
+    <File Include="GameOfLife.Views.dll">
+      <publishTime>02/25/2020 20:59:07</publishTime>
+    </File>
+    <File Include="GameOfLife.Views.pdb">
+      <publishTime>02/25/2020 20:59:07</publishTime>
+    </File>
+    <File Include="web.config">
+      <publishTime>02/25/2020 20:59:07</publishTime>
+    </File>
+    <File Include="wwwroot/appsettings.Development.json">
+      <publishTime>02/20/2020 21:07:54</publishTime>
+    </File>
+    <File Include="wwwroot/appsettings.json">
+      <publishTime>02/20/2020 21:07:54</publishTime>
+    </File>
+    <File Include="wwwroot/css/site.css">
+      <publishTime>02/20/2020 21:07:54</publishTime>
+    </File>
+    <File Include="wwwroot/Error.cshtml">
+      <publishTime>02/20/2020 21:07:54</publishTime>
+    </File>
+    <File Include="wwwroot/Error.cshtml.cs">
+      <publishTime>02/20/2020 21:08:00</publishTime>
+    </File>
+    <File Include="wwwroot/favicon.ico">
+      <publishTime>02/20/2020 21:07:54</publishTime>
+    </File>
+    <File Include="wwwroot/Index.cshtml">
+      <publishTime>02/20/2020 21:10:34</publishTime>
+    </File>
+    <File Include="wwwroot/Index.cshtml.cs">
+      <publishTime>02/20/2020 21:08:00</publishTime>
+    </File>
+    <File Include="wwwroot/js/site.js">
+      <publishTime>02/20/2020 21:07:54</publishTime>
+    </File>
+    <File Include="wwwroot/lib/bootstrap/dist/css/bootstrap-grid.css">
+      <publishTime>02/20/2020 21:07:54</publishTime>
+    </File>
+    <File Include="wwwroot/lib/bootstrap/dist/css/bootstrap-grid.css.map">
+      <publishTime>02/20/2020 21:07:54</publishTime>
+    </File>
+    <File Include="wwwroot/lib/bootstrap/dist/css/bootstrap-grid.min.css">
+      <publishTime>02/20/2020 21:07:54</publishTime>
+    </File>
+    <File Include="wwwroot/lib/bootstrap/dist/css/bootstrap-grid.min.css.map">
+      <publishTime>02/20/2020 21:07:54</publishTime>
+    </File>
+    <File Include="wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.css">
+      <publishTime>02/20/2020 21:07:54</publishTime>
+    </File>
+    <File Include="wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.css.map">
+      <publishTime>02/20/2020 21:07:54</publishTime>
+    </File>
+    <File Include="wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.min.css">
+      <publishTime>02/20/2020 21:07:54</publishTime>
+    </File>
+    <File Include="wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.min.css.map">
+      <publishTime>02/20/2020 21:07:54</publishTime>
+    </File>
+    <File Include="wwwroot/lib/bootstrap/dist/css/bootstrap.css">
+      <publishTime>02/20/2020 21:07:54</publishTime>
+    </File>
+    <File Include="wwwroot/lib/bootstrap/dist/css/bootstrap.css.map">
+      <publishTime>02/20/2020 21:07:54</publishTime>
+    </File>
+    <File Include="wwwroot/lib/bootstrap/dist/css/bootstrap.min.css">
+      <publishTime>02/20/2020 21:07:54</publishTime>
+    </File>
+    <File Include="wwwroot/lib/bootstrap/dist/css/bootstrap.min.css.map">
+      <publishTime>02/20/2020 21:07:54</publishTime>
+    </File>
+    <File Include="wwwroot/lib/bootstrap/dist/js/bootstrap.bundle.js">
+      <publishTime>02/20/2020 21:07:54</publishTime>
+    </File>
+    <File Include="wwwroot/lib/bootstrap/dist/js/bootstrap.bundle.js.map">
+      <publishTime>02/20/2020 21:07:54</publishTime>
+    </File>
+    <File Include="wwwroot/lib/bootstrap/dist/js/bootstrap.bundle.min.js">
+      <publishTime>02/20/2020 21:07:54</publishTime>
+    </File>
+    <File Include="wwwroot/lib/bootstrap/dist/js/bootstrap.bundle.min.js.map">
+      <publishTime>02/20/2020 21:07:54</publishTime>
+    </File>
+    <File Include="wwwroot/lib/bootstrap/dist/js/bootstrap.js">
+      <publishTime>02/20/2020 21:07:54</publishTime>
+    </File>
+    <File Include="wwwroot/lib/bootstrap/dist/js/bootstrap.js.map">
+      <publishTime>02/20/2020 21:07:54</publishTime>
+    </File>
+    <File Include="wwwroot/lib/bootstrap/dist/js/bootstrap.min.js">
+      <publishTime>02/20/2020 21:07:54</publishTime>
+    </File>
+    <File Include="wwwroot/lib/bootstrap/dist/js/bootstrap.min.js.map">
+      <publishTime>02/20/2020 21:07:54</publishTime>
+    </File>
+    <File Include="wwwroot/lib/bootstrap/LICENSE">
+      <publishTime>02/20/2020 21:07:54</publishTime>
+    </File>
+    <File Include="wwwroot/lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.js">
+      <publishTime>02/20/2020 21:07:54</publishTime>
+    </File>
+    <File Include="wwwroot/lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.min.js">
+      <publishTime>02/20/2020 21:07:54</publishTime>
+    </File>
+    <File Include="wwwroot/lib/jquery-validation-unobtrusive/LICENSE.txt">
+      <publishTime>02/20/2020 21:07:54</publishTime>
+    </File>
+    <File Include="wwwroot/lib/jquery-validation/dist/additional-methods.js">
+      <publishTime>02/20/2020 21:07:54</publishTime>
+    </File>
+    <File Include="wwwroot/lib/jquery-validation/dist/additional-methods.min.js">
+      <publishTime>02/20/2020 21:07:54</publishTime>
+    </File>
+    <File Include="wwwroot/lib/jquery-validation/dist/jquery.validate.js">
+      <publishTime>02/20/2020 21:07:54</publishTime>
+    </File>
+    <File Include="wwwroot/lib/jquery-validation/dist/jquery.validate.min.js">
+      <publishTime>02/20/2020 21:07:54</publishTime>
+    </File>
+    <File Include="wwwroot/lib/jquery-validation/LICENSE.md">
+      <publishTime>02/20/2020 21:07:54</publishTime>
+    </File>
+    <File Include="wwwroot/lib/jquery/dist/jquery.js">
+      <publishTime>02/20/2020 21:07:54</publishTime>
+    </File>
+    <File Include="wwwroot/lib/jquery/dist/jquery.min.js">
+      <publishTime>02/20/2020 21:07:54</publishTime>
+    </File>
+    <File Include="wwwroot/lib/jquery/dist/jquery.min.map">
+      <publishTime>02/20/2020 21:07:54</publishTime>
+    </File>
+    <File Include="wwwroot/lib/jquery/LICENSE.txt">
+      <publishTime>02/20/2020 21:07:54</publishTime>
+    </File>
+    <File Include="wwwroot/Privacy.cshtml">
+      <publishTime>02/20/2020 21:07:54</publishTime>
+    </File>
+    <File Include="wwwroot/Privacy.cshtml.cs">
+      <publishTime>02/20/2020 21:08:00</publishTime>
+    </File>
+    <File Include="wwwroot/Program.cs">
+      <publishTime>02/20/2020 21:08:00</publishTime>
+    </File>
+    <File Include="wwwroot/Shared/_Layout.cshtml">
+      <publishTime>02/20/2020 21:07:54</publishTime>
+    </File>
+    <File Include="wwwroot/Shared/_ValidationScriptsPartial.cshtml">
+      <publishTime>02/20/2020 21:07:54</publishTime>
+    </File>
+    <File Include="wwwroot/Startup.cs">
+      <publishTime>02/20/2020 21:08:00</publishTime>
+    </File>
+    <File Include="wwwroot/_ViewImports.cshtml">
+      <publishTime>02/20/2020 21:07:54</publishTime>
+    </File>
+    <File Include="wwwroot/_ViewStart.cshtml">
+      <publishTime>02/20/2020 21:07:54</publishTime>
+    </File>
+  </ItemGroup>
+</Project>
